@@ -1,0 +1,2 @@
+# nonebot_plugin_simpleping
+向你的Nonebot发送ping以检查基础nonebot功能是否正常工作（
