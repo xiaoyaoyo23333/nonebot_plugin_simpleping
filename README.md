@@ -28,4 +28,4 @@ your_bot/
    - "pong"
    - "喵喵喵？"
    - "Atri n_(づ︶ど)在呢~"
-   - # 可在config.py中添加更多回复对话
+   - #可在config.py中添加更多回复对话
