@@ -28,8 +28,7 @@ __plugin_meta__ = PluginMetadata(
     """,
     config=Config,
     extra={
-        "author": "MiniMax Agent",
-        "version": "2.3.0",
+        "author": "xiaoyaoyo23333",
         "supported_adapters": ["nonebot.adapters.onebot.v11"]
     }
 )
